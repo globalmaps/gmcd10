@@ -9,4 +9,4 @@ Credit: "Global Map of The Democratic Republic of Congo © ISCGM/Geographic Inst
 
 Contact: Geographic Institute of Congo of DRC.
 
-Email: ![email](https://www.iscgm.org/gmd/images/email/congo_drc.png)
+Email: ![email](email.png)
