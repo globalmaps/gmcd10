@@ -1,6 +1,6 @@
 # gmcd10: Global Map the Democratic Republic of the Congo 1.0
 ## non-commercial use
-No restriction
+![norestriction](https://globalmaps.github.io/globalmaps/norestriction.png)
 ## commercial use
 ![inquiry](https://globalmaps.github.io/globalmaps/inquiry.png)
 
